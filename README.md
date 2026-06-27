@@ -20,6 +20,10 @@ A simple and responsive Signup Page UI built using **HTML, CSS, and JavaScript**
 ## Screenshot
 ![signup page ui](./images/screenshot1.png)
 
+## Live Demo
+
+live link : https://abhijith-e0.github.io/simple-signup-ui/
+
 ## Project Structure
 ```bash
 signup-page/
