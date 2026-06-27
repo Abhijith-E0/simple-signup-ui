@@ -18,7 +18,7 @@ A simple and responsive Signup Page UI built using **HTML, CSS, and JavaScript**
 - JavaScript
 
 ## Screenshot
-![signup page ui](./images/screenshot.png)
+![signup page ui](./images/screenshot1.png)
 
 ## Project Structure
 ```bash
